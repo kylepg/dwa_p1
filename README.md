@@ -5,6 +5,7 @@
 
 ## Outside resources
 
-* Bootstrap
+* [Bootsteap 4]: https://getbootstrap.com/
+* [Star background]: https://codepen.io/saransh/pen/BKJun
 
 ## Notes for instructor

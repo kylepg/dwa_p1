@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-12 mb-4">
-                <img class="img-fluid" src="/images/young-kyle.jpg" />
+                <img class="img-fluid" src="/images/young-kyle.jpg" alt="Photo of 3 year old me" />
                 <p class="caption text-center">3 year old me wondering how a computer works.</p>
             </div>
             <div class="col-lg-6 col-md-12 ">
@@ -39,10 +39,10 @@
                 </div>
                 <div class="col-12 mb-4">
                     <h2>Random quotation</h2>
-                    <div style="display: inline-block">
+                    <div class="d-inline">
                         <p>
                             <?php echo $quotations[$randomIndex][0] ?> </p>
-                        <p style="text-align: right"> -
+                        <p class="text-right"> -
                             <?php echo $quotations[$randomIndex][1] ?> </p>
                     </div>
                 </div>

@@ -8,6 +8,4 @@ $quotations =  [
     ["Simplicity is the ultimate sophistication.", "Leonardo Da Vinci"]
 ];
 
-$randomIndex = rand(0,sizeof($quotations) - 1);
-
-
+$randomIndex = rand(0, sizeof($quotations) - 1);

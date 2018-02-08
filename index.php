@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php require 'php/random-quote.php'; ?>
 <html>
 

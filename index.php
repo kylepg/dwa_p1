@@ -42,9 +42,9 @@
                     <h2>Random quotation</h2>
                     <div class="d-inline">
                         <p>
-                            <?php echo $quotations[$randomIndex][0] ?> </p>
+                            <?php echo $quotations[$randomIndex][0]; ?> </p>
                         <p class="text-right"> -
-                            <?php echo $quotations[$randomIndex][1] ?> </p>
+                            <?php echo $quotations[$randomIndex][1]; ?> </p>
                     </div>
                 </div>
             </div>
